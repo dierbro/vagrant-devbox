@@ -1,5 +1,6 @@
 .vagrant/
 Cheffile.lock
+apps/
 cookbooks/
 tmp/
 
